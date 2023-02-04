@@ -2445,7 +2445,7 @@
 		"url": "https://github.com/halfdanj/svelte-adapter-appengine",
 		"description": "SvelteKit adapter for Google Cloud App Engine",
 		"npm": "svelte-adapter-appengine",
-		"stars": 0,
+		"stars": 26,
 		"addedOn": "2021-10-20",
 		"category": "SvelteKit Adapters",
 		"tags": ["integrations"]
